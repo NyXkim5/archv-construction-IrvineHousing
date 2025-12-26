@@ -1,0 +1,21 @@
+.table-filters {
+  display: flex;
+  gap: 16px;
+}
+
+.action-cell {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.showing-text {
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
